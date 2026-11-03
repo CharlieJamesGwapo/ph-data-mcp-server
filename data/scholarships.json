@@ -1,0 +1,1363 @@
+[
+  {
+    "id": "dost-sei-ra7687",
+    "name": "DOST-SEI S&T Undergraduate Scholarship (RA 7687)",
+    "provider": "Department of Science and Technology - Science Education Institute (DOST-SEI)",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "STEM",
+      "science and math education",
+      "agriculture",
+      "health sciences"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Need-based DOST-SEI undergraduate scholarship under the Science and Technology Scholarship Act of 1994 for talented students from families below set socio-economic cut-offs who take a priority S&T degree.",
+    "eligibility": [
+      "Graduating Grade 12 students in SY 2026-2027, or Grade 12 graduates before SY 2026-2027 who have not enrolled in college",
+      "STEM strand: all students in the STEM class; non-STEM strand: must be in the top 5% of the non-STEM graduating class",
+      "Natural-born Filipino citizen",
+      "Good moral character and good health",
+      "Must NOT have earned any post-secondary (college or vocational) units",
+      "May have applied before and not qualified, or qualified and not availed",
+      "Must enroll in a DOST-SEI priority S&T degree program at UP, a state university/college, or a private HEI recognized by CHED as Center of Excellence/Development or with FAAP Level III accreditation for the program",
+      "Family socio-economic status must not exceed the cut-off values of certain indicators set by DOST-SEI (cut-offs are not published on the page)",
+      "Must pass the DOST-SEI S&T Undergraduate Scholarship qualifying examination"
+    ],
+    "benefits": [
+      "School fees: PHP 40,000/year (regular academic year); actual up to PHP 10,000 for summer/mid-year if required in the curriculum",
+      "Learning materials and/or connectivity allowance: PHP 10,000/year; PHP 2,000 for summer/mid-year",
+      "Transportation allowance: actual (one economy-class round trip per academic year for scholars studying outside their home province/region; reimbursement basis)",
+      "Monthly living allowance: PHP 8,000/month; PHP 8,000/month for 2 months in summer/mid-year",
+      "Clothing allowance: PHP 1,000 (1st semester of 1st year only)",
+      "Group health and accident insurance premium",
+      "Thesis allowance: PHP 10,000",
+      "Graduation allowance: PHP 1,000"
+    ],
+    "application_period": "2027 cycle (award effective 1st semester AY 2027-2028): online application 17 Aug - 17 Sep 2026; completion of application by 24 Sep 2026; qualifying exam 14-15 Nov 2026; qualifiers announced tentatively March 2027",
+    "how_to_apply": "Register and apply online through the DOST-SEI E-Application System (ugs.science-scholarships.ph); upload Forms C-J, birth certificate, photo and proof of income; take the qualifying exam with the test permit issued in October 2026.",
+    "official_url": "https://ugs.science-scholarships.ph/",
+    "source_urls": [
+      "https://ugs.science-scholarships.ph/",
+      "https://science-scholarships.ph/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04 (JavaScript-rendered; content read in a browser)",
+    "notes": "RA 7687 and Merit share one application and exam; the track is determined by DOST-SEI. Privileges table is from the 'Learn More' panel on science-scholarships.ph as displayed on 2026-11-04 and is not labelled with an AY. Socio-economic cut-off values are not stated on the official page."
+  },
+  {
+    "id": "dost-sei-merit",
+    "name": "DOST-SEI S&T Undergraduate Scholarship (Merit / RA 2067)",
+    "provider": "Department of Science and Technology - Science Education Institute (DOST-SEI)",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "STEM",
+      "science and math education",
+      "agriculture",
+      "health sciences"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Merit-based DOST-SEI undergraduate scholarship (formerly the NSDB/NSTA scholarship under RA 2067) for students with high aptitude in science and math who will pursue a priority S&T degree.",
+    "eligibility": [
+      "Graduating Grade 12 students in SY 2026-2027, or Grade 12 graduates before SY 2026-2027 who have not enrolled in college",
+      "STEM strand: all students in the STEM class; non-STEM strand: must be in the top 5% of the non-STEM graduating class",
+      "Natural-born Filipino citizen",
+      "Good moral character and good health",
+      "Must NOT have earned any post-secondary (college or vocational) units",
+      "May have applied before and not qualified, or qualified and not availed",
+      "Must enroll in a DOST-SEI priority S&T degree program at UP, a state university/college, or a private HEI recognized by CHED as Center of Excellence/Development or with FAAP Level III accreditation for the program",
+      "Must pass the DOST-SEI S&T Undergraduate Scholarship qualifying examination"
+    ],
+    "benefits": [
+      "School fees: PHP 40,000/year (regular academic year); actual up to PHP 10,000 for summer/mid-year if required in the curriculum",
+      "Learning materials and/or connectivity allowance: PHP 10,000/year; PHP 2,000 for summer/mid-year",
+      "Transportation allowance: actual (one economy-class round trip per academic year for scholars studying outside their home province/region; reimbursement basis)",
+      "Monthly living allowance: PHP 8,000/month; PHP 8,000/month for 2 months in summer/mid-year",
+      "Clothing allowance: PHP 1,000 (1st semester of 1st year only)",
+      "Group health and accident insurance premium",
+      "Thesis allowance: PHP 10,000",
+      "Graduation allowance: PHP 1,000"
+    ],
+    "application_period": "2027 cycle (award effective 1st semester AY 2027-2028): online application 17 Aug - 17 Sep 2026; completion of application by 24 Sep 2026; qualifying exam 14-15 Nov 2026",
+    "how_to_apply": "Same single application as RA 7687: DOST-SEI E-Application System at ugs.science-scholarships.ph, then the qualifying exam.",
+    "official_url": "https://ugs.science-scholarships.ph/",
+    "source_urls": [
+      "https://ugs.science-scholarships.ph/",
+      "https://science-scholarships.ph/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04 (JavaScript-rendered; content read in a browser)",
+    "notes": "The official page does not state any income test for the Merit track. Privileges table is not labelled with an AY."
+  },
+  {
+    "id": "dost-sei-jlss",
+    "name": "DOST-SEI Junior Level Science Scholarships (JLSS)",
+    "provider": "Department of Science and Technology - Science Education Institute (DOST-SEI)",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "STEM",
+      "science and math education",
+      "agriculture",
+      "health sciences"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Scholarship for talented students entering their third year of college in a priority S&T degree program, awarded under the Merit, RA 7687 and RA 10612 (fast-tracked S&T teachers) tracks.",
+    "eligibility": [
+      "Students in their third year of college (incoming third-year) pursuing a priority S&T degree program",
+      "Must pass the JLSS examination",
+      "RA 7687 track: family socio-economic status must not exceed DOST-SEI cut-off values",
+      "RA 10612 track: for graduates in sciences, mathematics and engineering who will teach science and mathematics in secondary schools"
+    ],
+    "benefits": [
+      "Tuition and other school fees (for scholars in private HEIs): actual fees up to PHP 40,000/AY; actual up to PHP 10,000 mid-year",
+      "Learning materials and/or connectivity allowance: PHP 10,000/AY; PHP 2,000 mid-year",
+      "Monthly living allowance: PHP 8,000/month (regular AY and mid-year)",
+      "Transportation allowance (for those studying outside home province): 1 economy-class round-trip fare",
+      "Group accident and health insurance premium",
+      "Thesis allowance: PHP 10,000",
+      "Research dissemination grant: not exceeding PHP 50,000 (must be applied for; subject to approval)",
+      "Graduation allowance: PHP 1,000"
+    ],
+    "application_period": "2026 cycle: online application 17 Apr - 15 May 2026; exam 28 Jun 2026 (DOST-SEI article says exams were held 28 Jun and 5 Jul 2026); 1,000 qualifiers announced 17 Sep 2026. Next cycle not yet announced as of 2026-11-04.",
+    "how_to_apply": "Online application via science-scholarships.ph during the call period, then the JLSS qualifying exam.",
+    "official_url": "https://science-scholarships.ph/",
+    "source_urls": [
+      "https://science-scholarships.ph/",
+      "https://www.sei.dost.gov.ph/sei-today/articles/2026-JUNIOR-LEVEL-SCIENCE-SCHOLARSHIP-OFFICIAL-LIST-OF-QUALIFIERS"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04 (JavaScript-rendered; content read in a browser)",
+    "notes": "Detailed eligibility criteria (e.g. GWA cut-offs) were not shown on the official page; only the program description and track definitions. The 2026 qualifier split was 269 RA 7687, 372 Merit, 128 RA 10612, plus 231 potential qualifiers."
+  },
+  {
+    "id": "dost-sei-best-for-ip",
+    "name": "DOST-SEI BEST for IP Scholarship (Bridging Education in Science and Technology for Indigenous Peoples)",
+    "provider": "DOST-SEI with Nueva Vizcaya State University (NVSU)",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "STEM",
+      "agriculture",
+      "education"
+    ],
+    "regions": [
+      "nationwide (study at NVSU, Nueva Vizcaya)"
+    ],
+    "summary": "DOST-SEI scholarship for incoming first-year Indigenous Peoples students from low-income households to take priority S&T degrees at Nueva Vizcaya State University.",
+    "eligibility": [
+      "For AY 2026-2027, offered to passers of the 2026 NVSU College Admission Test (NCAT)",
+      "Incoming first-year college student in the academic year of application",
+      "Natural-born Filipino citizen of good moral character and good health",
+      "Has not applied for a DOST-SEI scholarship before, or applied but did not qualify, or qualified for the DOST-SEI Undergraduate Scholarship but did not avail",
+      "Bona fide member of an Indigenous Peoples group recognized by the NCIP",
+      "Low-income household: gross annual income not exceeding PHP 400,000"
+    ],
+    "benefits": [
+      "School fees: PHP 40,000/year (regular academic year); actual up to PHP 10,000 for summer/mid-year if required in the curriculum",
+      "Learning materials and/or connectivity allowance: PHP 10,000/year; PHP 2,000 for summer/mid-year",
+      "Transportation allowance: actual (one economy-class round trip per academic year for scholars studying outside their home province/region; reimbursement basis)",
+      "Monthly living allowance: PHP 8,000/month; PHP 8,000/month for 2 months in summer/mid-year",
+      "Clothing allowance: PHP 1,000 (1st semester of 1st year only)",
+      "Group health and accident insurance premium",
+      "Thesis allowance: PHP 10,000",
+      "Graduation allowance: PHP 1,000",
+      "Dissemination grant: up to PHP 50,000 (subject to liquidation)"
+    ],
+    "application_period": "AY 2026-2027 call: application 4 May - 5 Jun 2026; exam 18 Jun 2026 (closed; qualifiers posted Aug 2026)",
+    "how_to_apply": "Submit the listed forms (A-G), birth certificate, photo and proof of income; NVSU issues good-moral, good-health and elders' certifications. Contact dostbestforip@nvsu.edu.ph.",
+    "official_url": "https://science-scholarships.ph/BestForIPScholarship",
+    "source_urls": [
+      "https://science-scholarships.ph/BestForIPScholarship"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04 (JavaScript-rendered; content read in a browser)",
+    "notes": "Programs limited to NVSU Bayombong and Bambang priority S&T programs listed on the page."
+  },
+  {
+    "id": "dost-sei-asthrdp",
+    "name": "DOST-SEI Accelerated Science and Technology Human Resource Development Program (ASTHRDP)",
+    "provider": "DOST-SEI through National Science Consortium (NSC) member universities",
+    "provider_type": "government",
+    "levels": [
+      "graduate"
+    ],
+    "fields": [
+      "STEM",
+      "agriculture",
+      "health sciences",
+      "environmental science"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "MS and PhD scholarships for full-time graduate study in DOST priority S&T fields at National Science Consortium member universities.",
+    "eligibility": [
+      "Filipino citizen",
+      "Not more than 50 years old at the time of application",
+      "In good health",
+      "Passed the graduate admission requirements of an NSC member university",
+      "Passes the interview and other screening procedures",
+      "Must study full time and not be employed while on scholarship"
+    ],
+    "benefits": [
+      "Tuition and other school fees: actual",
+      "Stipend: PHP 30,000/month (MS); PHP 38,000/month (PhD); straight-PhD scholars get the MS rate in year 1",
+      "Learning materials and/or connectivity allowance: PHP 20,000/AY",
+      "Transportation allowance: actual (one economy round trip per AY, only if studying outside home province)",
+      "Insurance premium",
+      "Outright thesis/dissertation allowance: PHP 60,000 (MS); PHP 100,000 (PhD)",
+      "Student research support fund (on application): research grant PHP 114,000 (MS) / PHP 253,000 (PhD); dissemination grant PHP 75,000 / PHP 150,000; mentor's fee PHP 36,000 / PHP 72,000",
+      "Remaining stipends given to scholars who finish early"
+    ],
+    "application_period": "Per-university semestral deadlines; page shows AY 2025-2026 dates (e.g. UP Diliman 1st sem 30 Jun 2025, 2nd sem 28 Nov 2025; DLSU 3rd term 15 Apr 2026). No AY 2026-2027 dates posted as of 2026-11-04.",
+    "how_to_apply": "Submit the ASTHRDP application form and documents (TOR, endorsements, career and research plans, medical certificate, NBI clearance, admission letter) to the ASTHRDP project leader of the chosen NSC member university by email, then mail hard copies.",
+    "official_url": "https://asthrdp.science-scholarships.ph/",
+    "source_urls": [
+      "https://asthrdp.science-scholarships.ph/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04 (JavaScript-rendered; content read in a browser)",
+    "notes": "Return service: one year of full-time service in the Philippines per year of scholarship; refund with interest if not completed. Page header reads '2025-2026'."
+  },
+  {
+    "id": "dost-sei-erdt",
+    "name": "DOST-SEI Engineering Research and Development for Technology (ERDT) Scholarship",
+    "provider": "DOST-SEI / ERDT Consortium",
+    "provider_type": "government",
+    "levels": [
+      "graduate"
+    ],
+    "fields": [
+      "engineering",
+      "STEM"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Master's and doctoral scholarships in engineering and allied fields at the eight ERDT consortium universities (ADMU, CLSU, DLSU, Mapua, MSU-IIT, UP Diliman, UPLB, USC).",
+    "eligibility": [
+      "Filipino citizen",
+      "Not more than 50 years old at the time of application",
+      "Passed admission requirements of an ERDT-supported graduate program",
+      "Has a BS/MS degree in engineering or a related field",
+      "In good health; no criminal/administrative case",
+      "Passes the interview and other screening procedures",
+      "Must not be employed or hold other scholarships while on scholarship"
+    ],
+    "benefits": [
+      "Tuition and other school fees: actual as billed",
+      "Stipend: PHP 30,000/month (Master's); PHP 38,000/month (Doctoral); MS rate in year 1 of a 4-year PhD",
+      "Learning materials and/or connectivity allowance: PHP 20,000/AY",
+      "Transportation: one round-trip economy fare per AY (only for those studying outside home province)",
+      "Group accident and health insurance premium",
+      "Thesis/dissertation allowance: PHP 60,000 (Master's); PHP 100,000 (Doctoral)",
+      "Research support grant (on application): research grant PHP 114,000 / PHP 253,000 (not for Master of Engineering); dissemination grant PHP 75,000 / PHP 150,000; mentor's fee PHP 36,000 / PHP 72,000"
+    ],
+    "application_period": "Per-university deadlines; page shows AY 2025-2026 dates (e.g. ADMU, UPD, UPLB, USC: 31 May 2025 for 1st term). No AY 2026-2027 dates posted as of 2026-11-04.",
+    "how_to_apply": "Email the ERDT application form and documents to the ERDT project staff of the chosen member university before the deadline, then mail hard copies.",
+    "official_url": "https://erdt.science-scholarships.ph/",
+    "source_urls": [
+      "https://erdt.science-scholarships.ph/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04 (JavaScript-rendered; content read in a browser)",
+    "notes": "Return service: one year per year of scholarship, in the Philippines; refund with interest for non-completion."
+  },
+  {
+    "id": "ched-bpmsp",
+    "name": "Bagong Pilipinas Merit Scholarship Program (BPMSP) - Higher Education Track",
+    "provider": "Commission on Higher Education (CHED), with DepEd and TESDA",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "health",
+      "engineering",
+      "education",
+      "agriculture",
+      "IT",
+      "business",
+      "creative industries",
+      "STEM"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "New merit scholarship launched in January 2026 for top senior high school graduates entering priority bachelor's programs at qualified HEIs, with return service required.",
+    "eligibility": [
+      "Filipino citizen who is an incoming first-year college student",
+      "Grade 12 graduate in the Top 5 of the graduating class or with a minimum GWA of 95% (or equivalent)",
+      "Parents'/guardians' combined annual income not exceeding PHP 2,000,000",
+      "Enrolled in a CHED-identified priority program in a qualified HEI",
+      "Has not earned any units or degree in tertiary education",
+      "Willing to render return service in the Philippines"
+    ],
+    "benefits": [
+      "TOSF: covered for SUCs/LUCs under RA 10931; maximum PHP 40,000 per AY for private HEIs",
+      "Stipend: PHP 71,800 per AY (PHP 35,900 per semester)",
+      "Well-being allowance: PHP 2,000 per AY (PHP 1,000 per semester)",
+      "Academic Excellence Incentive: PHP 18,000 per term for the top 15 scholars per region",
+      "All amounts subject to fund availability and Commission en Banc approval"
+    ],
+    "application_period": null,
+    "how_to_apply": "Apply on the BPMS portal (bpms.ched.gov.ph): verify email, fill in personal info, choose HEI and program, upload documents, submit. Applications go to the CHED Regional Office where the HEI is located.",
+    "official_url": "https://bpms.ched.gov.ph/",
+    "source_urls": [
+      "https://bpms.ched.gov.ph/",
+      "https://bpms.ched.gov.ph/faqs",
+      "https://legacy.ched.gov.ph/marcos-admin-launches-the-presidential-merit-scholarship-program/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04 (JavaScript-rendered; content read in a browser)",
+    "notes": "Guidelines: JMC No. 1, s. 2026; funded under GAA FY 2026 (CHED article cites PHP 634.889 million and 20,000 slots for AY 2026-2027). The official portal does not show the application window; secondary sources report 30 Apr - 30 Jun 2026, not verified on an official page. The portal home page says the excellence incentive goes to the top 10 per term per region, while the FAQ says top 15 per region; the FAQ figure is used here. A TVET track (TESDA) also exists but was not documented on the portal."
+  },
+  {
+    "id": "ched-cmsp",
+    "name": "CHED Merit Scholarship Program (CMSP)",
+    "provider": "Commission on Higher Education (CHED)",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Competitive CHED scholarship for incoming first-year college students with high grades and family income up to PHP 500,000, in full or half grant form.",
+    "eligibility": [
+      "Filipino citizen",
+      "Senior high school graduate with a minimum GWA of 93% or equivalent",
+      "Combined annual gross income of parents/legal guardian not exceeding PHP 500,000",
+      "Incoming or current first-year students; special equity groups (e.g. PWDs, solo parents, IPs, first-generation students, underprivileged/homeless) get additional ranking points"
+    ],
+    "benefits": [
+      "Private HEIs, full grant: TOSF PHP 40,000 + stipend PHP 70,000 + book/connectivity PHP 10,000 = PHP 120,000 per year (PHP 60,000 per semester)",
+      "Private HEIs, half grant: PHP 60,000 per year (TOSF 20,000; stipend 35,000; book/connectivity 5,000)",
+      "SUCs/LUCs, full grant: free higher education + stipend PHP 70,000 + book/connectivity PHP 10,000 = PHP 80,000 per year",
+      "SUCs/LUCs, half grant: PHP 40,000 per year (stipend 35,000; book/connectivity 5,000)"
+    ],
+    "application_period": "AY 2025-2026 call: deadline 20 Jun 2025 (closed; 2,779 slots). No AY 2026-2027 CMSP call found on the CHED page.",
+    "how_to_apply": "Prepare and scan documents (PSA birth certificate, Form 138, proof of income, special-group proof if any), then submit online to your CHED Regional Office.",
+    "official_url": "https://legacy.ched.gov.ph/merit-scholarship/",
+    "source_urls": [
+      "https://legacy.ched.gov.ph/merit-scholarship/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04 (legacy.ched.gov.ph; main ched.gov.ph returned 403 / Cloudflare challenge)",
+    "notes": "Amounts and guidelines from CMO No. 13, s. 2025 as shown for the AY 2025-2026 call. For AY 2026-2027 CHED launched the BPMSP (see ched-bpmsp); whether CMSP opened a separate 2026-2027 call could not be confirmed."
+  },
+  {
+    "id": "ched-tdp",
+    "name": "Tulong Dunong Program (TDP)",
+    "provider": "CHED / UniFAST",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Grant under the Tertiary Education Subsidy that helps pay at least part of tertiary education costs for students from households earning up to PHP 400,000.",
+    "eligibility": [
+      "Filipino citizen",
+      "Combined household gross income (parents/guardians) not exceeding PHP 400,000",
+      "Enrolled in a first undergraduate degree program in a partner HEI (SUC, CHED-recognized LUC, or private HEI)",
+      "Not a beneficiary of TES, CHED Scholarship Programs, or other national government-funded StuFAPs"
+    ],
+    "benefits": [
+      "PHP 7,500 per regular semester (subject to prioritization and availability of funds)"
+    ],
+    "application_period": null,
+    "how_to_apply": "New applicants submit the TDP-TES application form, COE/COR, and a Certificate of Indigency signed by the Punong Barangay; continuing grantees submit COE/COR each semester.",
+    "official_url": "https://legacy.ched.gov.ph/unifast/",
+    "source_urls": [
+      "https://legacy.ched.gov.ph/unifast/",
+      "https://legacy.ched.gov.ph/wp-content/uploads/2025-Updated-TDP-FRONT-AND-BACK.pdf"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04 (unifast.gov.ph returned HTTP 522 on 2026-11-04)",
+    "notes": "From CHED's '2025 Updated' TDP brochure. The CHED page misspells it 'Tunong Dunong'. Secondary sources mention 2026 revised TES/TDP guidelines (UniFAST MC No. 1, s. 2026) that could not be verified because unifast.gov.ph was down."
+  },
+  {
+    "id": "ched-unifast-tes",
+    "name": "Tertiary Education Subsidy (TES)",
+    "provider": "CHED / UniFAST",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Grant-in-aid under RA 10931 supporting the full or partial cost of tertiary education for priority students in SUCs, CHED-recognized LUCs and private HEIs.",
+    "eligibility": [
+      "Filipino citizen",
+      "Meets the admission and retention policies of the partner HEI",
+      "No previous undergraduate degree",
+      "Not overstaying in the program (e.g. 4 or 5 years + 1-year grace period)"
+    ],
+    "benefits": [
+      "SUC/LUC students: PHP 20,000 per academic year (starting fiscal year 2023)",
+      "Private HEI students: PHP 27,000 per academic year",
+      "TES-3A (persons with disability): additional PHP 10,000 per academic year",
+      "TES-3B (board/licensure exam takers): PHP 8,000 one-time reimbursement",
+      "Subject to prioritization and the availability of funds"
+    ],
+    "application_period": null,
+    "how_to_apply": "Documents: Certificate of Registration/Enrollment, Certificate of Residency (for private HEIs in provinces without an SUC/LUC), PWD ID if applicable. Coordinate with your HEI or the UniFAST regional unit.",
+    "official_url": "https://legacy.ched.gov.ph/unifast/",
+    "source_urls": [
+      "https://legacy.ched.gov.ph/unifast/",
+      "https://legacy.ched.gov.ph/wp-content/uploads/2025-Updated-TES-FRONT-AND-BACK.pdf"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04 (unifast.gov.ph returned HTTP 522 on 2026-11-04)",
+    "notes": "Amounts from CHED's '2025 Updated' TES brochure. Secondary sources report 2026 revised TES guidelines; not verified on an official page because unifast.gov.ph was unreachable."
+  },
+  {
+    "id": "ched-free-higher-education",
+    "name": "Free Higher Education in SUCs and LUCs (RA 10931)",
+    "provider": "CHED / UniFAST",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Under RA 10931, Filipino students in undergraduate programs at state and CHED-recognized local universities and colleges are exempt from tuition and other school fees.",
+    "eligibility": [
+      "Filipino citizen",
+      "Meets the admission and retention policies of the SUC/LUC",
+      "No previous undergraduate degree",
+      "Not overstaying in the program (e.g. 4 or 5 years + 1-year grace period)"
+    ],
+    "benefits": [
+      "Free tuition and 13 other school fees: admission, athletic, computer, cultural, development, entrance, guidance, handbook, laboratory, library, medical/dental, registration and school ID fees"
+    ],
+    "application_period": null,
+    "how_to_apply": "No separate scholarship application: enroll in an SUC or CHED-recognized LUC and meet its admission and retention rules.",
+    "official_url": "https://legacy.ched.gov.ph/unifast/",
+    "source_urls": [
+      "https://legacy.ched.gov.ph/wp-content/uploads/2025-Updated-FHE-FRONT-AND-BACK.pdf"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "From CHED's '2025 Updated' Free Higher Education brochure."
+  },
+  {
+    "id": "ched-da-acef-giahep",
+    "name": "ACEF Grants-in-Aid for Higher Education Program (ACEF-GIAHEP)",
+    "provider": "CHED with the Department of Agriculture (Agricultural Competitiveness Enhancement Fund)",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "agriculture",
+      "forestry",
+      "fisheries",
+      "veterinary medicine",
+      "agricultural education"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Grant under RA 10848 for undergraduates in agriculture, forestry, fisheries, veterinary medicine and related programs, with preference for children of registered farmers and fisherfolk.",
+    "eligibility": [
+      "Filipino citizen",
+      "Graduating high school student, high school graduate, or with earned college units in the relevant programs",
+      "Will enroll or is enrolled in a recognized private HEI or an authorized SUC/LUC program in agriculture, forestry, fisheries, veterinary medicine or related agricultural education",
+      "Parents'/guardians' combined annual gross income not exceeding PHP 400,000 (CHEDRO may consider exceptions, e.g. 4+ dependent siblings, serious illness, OFW parents with employment problems)",
+      "Preference for dependents of farmers/fisherfolk registered in RSBSA and other registries",
+      "Not a beneficiary of any other government-funded student financial assistance",
+      "Not convicted of a crime involving moral turpitude"
+    ],
+    "benefits": [
+      "Private HEIs: TOSF PHP 20,000 + stipend PHP 35,000 + book allowance PHP 5,000 = PHP 60,000 per AY (PHP 30,000 per semester)",
+      "SUCs/LUCs: free TOSF + stipend PHP 35,000 + book allowance PHP 5,000 = PHP 40,000 per AY (PHP 20,000 per semester)"
+    ],
+    "application_period": "Latest call shown: AY 2024-2025 (no dates on the page)",
+    "how_to_apply": "Apply to your CHED Regional Office (links per region on the page); CHEDRO evaluates and endorses to CHED OSDS for validation.",
+    "official_url": "https://legacy.ched.gov.ph/acef-giahep/",
+    "source_urls": [
+      "https://legacy.ched.gov.ph/acef-giahep/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "Guidelines: JMC No. 2017-7 and CHED-DA JMC No. 2, s. 2024. The page's latest call is for AY 2024-2025; a newer call was not found."
+  },
+  {
+    "id": "ched-pca-coscho",
+    "name": "Scholarship Program for Coconut Farmers and their Families (CoScho)",
+    "provider": "CHED with the Philippine Coconut Authority (PCA)",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "agriculture",
+      "agricultural engineering",
+      "agribusiness",
+      "agricultural economics"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Scholarship under RA 11524 for registered coconut farmers and their dependents taking PCA-identified agriculture-related degrees at identified SUCs.",
+    "eligibility": [
+      "Filipino citizen",
+      "Graduating high school student/graduate with GWA of 80% or equivalent, or college student in a relevant program with 80% GWA the previous semester",
+      "Passes the entry requirements of the identified SUC",
+      "Not a recipient of any government-funded financial assistance program",
+      "Registered coconut farmer in the National Coconut Farmers Registry System (NCFRS) or a dependent",
+      "Parents' combined annual gross income not exceeding PHP 300,000"
+    ],
+    "benefits": null,
+    "application_period": "AY 2025-2026 call: deadline 31 Jul 2025 (closed)",
+    "how_to_apply": "Apply through your CHED Regional Office portal with PCA certification, grades, proof of income, good moral certificate and notice of admission. Only one family member may apply.",
+    "official_url": "https://legacy.ched.gov.ph/coscho/",
+    "source_urls": [
+      "https://legacy.ched.gov.ph/coscho/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "Benefit amounts appear only in an image on the CHED page and could not be read as text, so none are recorded. Return service: one year per year of scholarship within two years after graduation."
+  },
+  {
+    "id": "ched-msrs",
+    "name": "Medical Scholarship and Return Service (MSRS) - Doktor Para sa Bayan",
+    "provider": "Commission on Higher Education (CHED)",
+    "provider_type": "government",
+    "levels": [
+      "graduate"
+    ],
+    "fields": [
+      "medicine"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Scholarship under RA 11509 for Doctor of Medicine students in participating SUCs and private HEIs, with mandatory return service.",
+    "eligibility": [
+      "Filipino citizen residing in the Philippines",
+      "Graduating student or graduate of a pre-medicine program, currently enrolled in a Doctor of Medicine program at a CHED-recognized HEI (includes direct INTARMED entrants)",
+      "Has the NMAT score required by CHED and the SUC/PHEI",
+      "Passed the entrance exam and admission requirements of a participating SUC or PHEI",
+      "Priority (not limited to): residents of municipalities without government physicians, GIDA/poor/calamity- or conflict-affected areas, IPs, dependents of community health volunteers, families with income below PHP 450,000"
+    ],
+    "benefits": [
+      "TOSF: actual for SUCs; actual up to PHP 100,000 per semester for private HEIs",
+      "Book allowance PHP 26,000/AY; clothing/uniform PHP 7,000/AY; miscellaneous incl. connectivity PHP 12,000/AY",
+      "Living subsidy PHP 60,000/AY; lodging PHP 60,000/AY; transportation PHP 12,000/AY (total allowances PHP 177,000/AY)",
+      "Internship/5th year: living, lodging and transportation allowances plus a one-time PHP 16,000 for board review and application fees",
+      "PhilHealth premiums and GSIS accident insurance"
+    ],
+    "application_period": "AY 2025-2026 (1st semester) call: deadline for submission to the SUC extended to 11 Nov 2025 (closed)",
+    "how_to_apply": "Submit the MSRS application form and documents to the participating SUC/PHEI (forms downloadable on the CHED page).",
+    "official_url": "https://legacy.ched.gov.ph/msrs/",
+    "source_urls": [
+      "https://legacy.ched.gov.ph/msrs/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "Return service is mandatory; its length is not stated on the page (see IRR of RA 11509). The page's internship totals look internally inconsistent when the one-time fee is included."
+  },
+  {
+    "id": "tesda-twsp",
+    "name": "Training for Work Scholarship Program (TWSP)",
+    "provider": "Technical Education and Skills Development Authority (TESDA)",
+    "provider_type": "government",
+    "levels": [
+      "tech_voc"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "TESDA scholarship for technical-vocational training in priority sectors with critical skills shortages, launched in 2006 and mainstreamed into the regular budget in 2008.",
+    "eligibility": null,
+    "benefits": null,
+    "application_period": null,
+    "how_to_apply": "TESDA links an 'Online Application for Scholarship Programs'; slots are allocated through TESDA regional/provincial offices and technical-vocational institutions.",
+    "official_url": "https://www.tesda.gov.ph/About/TESDA/1279",
+    "source_urls": [
+      "https://www.tesda.gov.ph/About/TESDA/1279"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "TESDA's scholarship page describes TWSP but does not state eligibility or benefit amounts; its newest linked guideline is TESDA Circular No. 018-2022 (omnibus guidelines, March 2022). FY 2026 guidelines were not found on tesda.gov.ph."
+  },
+  {
+    "id": "tesda-step",
+    "name": "Special Training for Employment Program (STEP)",
+    "provider": "Technical Education and Skills Development Authority (TESDA)",
+    "provider_type": "government",
+    "levels": [
+      "tech_voc"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Community-based TESDA skills training program introduced in 2014 for beneficiaries in barangays and communities.",
+    "eligibility": null,
+    "benefits": [
+      "Free training and competency assessment",
+      "Starter toolkits",
+      "Training allowance of PHP 60.00 per day for the duration of the training"
+    ],
+    "application_period": null,
+    "how_to_apply": "Through TESDA provincial/district offices and partner training providers (often local government training centers and TESDA Technology Institutions).",
+    "official_url": "https://www.tesda.gov.ph/About/TESDA/1279",
+    "source_urls": [
+      "https://www.tesda.gov.ph/About/TESDA/1279"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "The PHP 60/day allowance is from the program description on TESDA's page, which is not dated and sits beside 2018-2022 circulars; it may be out of date."
+  },
+  {
+    "id": "owwa-edsp",
+    "name": "OWWA Education for Development Scholarship Program (EDSP)",
+    "provider": "Overseas Workers Welfare Administration (OWWA)",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Scholarship for qualified dependents of OFWs taking 4- to 5-year baccalaureate courses, selected through the DOST national exam for incoming freshmen.",
+    "eligibility": [
+      "Qualified dependent of an OFW",
+      "Will enroll in a 4- to 5-year baccalaureate course",
+      "Incoming freshmen are selected through the DOST national examinations; only the top 1,000 passers are considered",
+      "400 slots are for students already enrolled in college"
+    ],
+    "benefits": [
+      "Maximum of PHP 60,000 per school year until completion of the baccalaureate course (4-5 years)"
+    ],
+    "application_period": null,
+    "how_to_apply": null,
+    "official_url": "https://owwa.gov.ph/baccalaureate-courses/",
+    "source_urls": [
+      "https://owwa.gov.ph/baccalaureate-courses/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 403 to curl (bot protection); page loaded and was read in a browser on 2026-11-04",
+    "notes": "OWWA page does not give an application period or OWWA membership requirement details."
+  },
+  {
+    "id": "owwa-odsp",
+    "name": "OWWA OFW-Dependents Scholarship Program (ODSP)",
+    "provider": "Overseas Workers Welfare Administration (OWWA)",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Financial assistance for dependents of lower-earning OFWs enrolled in a baccalaureate or associate course.",
+    "eligibility": [
+      "Qualified dependent of an OFW whose monthly salary is not more than US$1,000",
+      "Shall enroll, is enrolled, or has been enrolled in a 4- or 5-year baccalaureate course or an associate course in any college or university"
+    ],
+    "benefits": [
+      "PHP 20,000 per school year"
+    ],
+    "application_period": null,
+    "how_to_apply": null,
+    "official_url": "https://owwa.gov.ph/baccalaureate-courses/",
+    "source_urls": [
+      "https://owwa.gov.ph/baccalaureate-courses/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 403 to curl (bot protection); page loaded and was read in a browser on 2026-11-04",
+    "notes": null
+  },
+  {
+    "id": "owwa-cmwsp",
+    "name": "Congressional Migrant Workers Scholarship Program (CMWSP)",
+    "provider": "Overseas Workers Welfare Administration (OWWA)",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "STEM"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Scholarship for migrant workers and/or their immediate dependents taking priority science and technology courses.",
+    "eligibility": [
+      "Deserving migrant worker and/or immediate dependent",
+      "Will pursue a course in the priority fields of science and technology"
+    ],
+    "benefits": [
+      "PHP 60,000 per year"
+    ],
+    "application_period": null,
+    "how_to_apply": null,
+    "official_url": "https://owwa.gov.ph/baccalaureate-courses/",
+    "source_urls": [
+      "https://owwa.gov.ph/baccalaureate-courses/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 403 to curl (bot protection); page loaded and was read in a browser on 2026-11-04",
+    "notes": null
+  },
+  {
+    "id": "owwa-elap",
+    "name": "OWWA Education and Livelihood Assistance Program (ELAP)",
+    "provider": "Overseas Workers Welfare Administration (OWWA)",
+    "provider_type": "government",
+    "levels": [
+      "senior_high",
+      "college"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Education aid (kinder to college) plus livelihood support for families of deceased OFWs who were active OWWA members, or of OFWs meted the death penalty abroad.",
+    "eligibility": [
+      "Dependent of a deceased OFW who was an active OWWA member at the time of death; or",
+      "Dependent of an OFW who is/was incarcerated/convicted and meted the death penalty abroad, with at least 1 OWWA membership contribution"
+    ],
+    "benefits": [
+      "Up to PHP 5,000 per school year for kinder to Grade 6",
+      "Up to PHP 8,000 per school year for Grade 7 to Grade 12",
+      "Up to PHP 10,000 per school year for college",
+      "Livelihood assistance of PHP 15,000 to the surviving family"
+    ],
+    "application_period": null,
+    "how_to_apply": null,
+    "official_url": "https://owwa.gov.ph/education-and-livelihood-assistance-program-elap-2/",
+    "source_urls": [
+      "https://owwa.gov.ph/education-and-livelihood-assistance-program-elap-2/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 403 to curl (bot protection); page loaded and was read in a browser on 2026-11-04",
+    "notes": "Also covers elementary and junior high levels, which are outside this dataset's level tags."
+  },
+  {
+    "id": "dswd-tara-basa",
+    "name": "DSWD Tara, Basa! Tutoring Program (cash-for-work for college students)",
+    "provider": "Department of Social Welfare and Development (DSWD)",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "nationwide (participating areas)"
+    ],
+    "summary": "DSWD's reformatted educational assistance: SUC college students are trained as reading tutors or youth development workers and receive cash-for-work pay.",
+    "eligibility": [
+      "College student from a state university or college (SUC) in a participating area"
+    ],
+    "benefits": [
+      "Cash-for-work assistance of PHP 500 per day for a 20-day cycle"
+    ],
+    "application_period": null,
+    "how_to_apply": null,
+    "official_url": "https://www.dswd.gov.ph/tara-basa-tutoring-program/",
+    "source_urls": [
+      "https://www.dswd.gov.ph/tara-basa-tutoring-program/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "The page lists expansion regions (e.g. Regions 1, 5, 9, MIMAROPA, CARAGA) beyond the NCR pilot but does not give selection criteria or an application process. DSWD's AICS page mentions 'education' assistance but gives no amounts or rules, so AICS was not added as a separate entry."
+  },
+  {
+    "id": "gsis-gssp",
+    "name": "GSIS Subsidy for Science, Technology, Engineering, and Mathematics (GSSP)",
+    "provider": "Government Service Insurance System (GSIS)",
+    "provider_type": "government",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "STEM"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "GSIS CSR subsidy for one child of an active, lower-salary-grade GSIS member who is entering a GSIS-identified STEM degree.",
+    "eligibility": [
+      "Member: regular active GSIS member with permanent status, Salary Grade 15 and below (or equivalent), updated premiums, has not nominated another child; PTD pensioners must be below 60",
+      "Nominee: senior high school graduate and incoming first-time college freshman",
+      "Accepted into a GSIS-identified STEM degree program at a qualified university, college, SUC, LCU, COE or COD",
+      "SHS GWA of at least 90% with no failing grades"
+    ],
+    "benefits": [
+      "PHP 15,000 financial subsidy per academic year for the approved duration of the degree",
+      "Latin honors incentive: Summa PHP 50,000; Magna PHP 30,000; Cum Laude PHP 20,000"
+    ],
+    "application_period": "AY 2026-2027: 30 Jun - 31 Aug 2026 (closed)",
+    "how_to_apply": "Member nominates the child using the GSSP application form with PSA birth certificate, certificate of employment/service record, school acceptance/enrollment certification and SHS report card. Inquiries: (02) 8479-3571 / 8479-3572.",
+    "official_url": "https://www.gsis.gov.ph/ginhawa-for-all/gsis-subsidy-for-science-technology-engineering-and-mathematics-gssp/",
+    "source_urls": [
+      "https://www.gsis.gov.ph/ginhawa-for-all/gsis-subsidy-for-science-technology-engineering-and-mathematics-gssp/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "1,000 grantees per AY; at least 20% of slots reserved for PWDs, IPs and solo parents; priority to lowest basic salary/pension."
+  },
+  {
+    "id": "deped-peac-shs-voucher",
+    "name": "Senior High School Voucher Program (SHS VP)",
+    "provider": "Department of Education (DepEd), administered by the Private Education Assistance Committee (PEAC)",
+    "provider_type": "government",
+    "levels": [
+      "senior_high"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Tuition subsidy for eligible incoming Grade 11 learners enrolling in participating private (non-DepEd) senior high schools, covering up to two years.",
+    "eligibility": [
+      "Category A: Grade 10 completers in a listed Social Equity Group (except ALS or PEPT Grade 6 passers)",
+      "Category B: Grade 10 completers from public JHS (except ALS/PEPT) from poor to middle-middle income households",
+      "Category C: ALS A&E or PEPT JHS-level passers from poor to middle-middle income households",
+      "Category D: Grade 10 completers who are ESC grantees",
+      "Category E: non-ESC Grade 10 completers from private schools",
+      "Not eligible: non-Filipino citizens, learners residing or studying outside the Philippines, learners enrolling in non-VP-participating SHSs",
+      "Must be promoted and enroll in a VP-participating SHS each year to keep the voucher"
+    ],
+    "benefits": [
+      "Tuition subsidy for 2 consecutive years of SHS starting Grade 11 (amounts not stated on the PEAC pages reviewed)"
+    ],
+    "application_period": "SY 2026-2027, Category E via OVAP: 19 May - 15 Jun 2026; results and start of redemption 15 Jul 2026 (closed)",
+    "how_to_apply": "Categories A-D apply directly at a participating SHS; Category E applies online at ovap.peac.org.ph.",
+    "official_url": "https://peac.org.ph/voucher-application/",
+    "source_urls": [
+      "https://peac.org.ph/voucher-application/",
+      "https://peac.org.ph/shsvp/",
+      "https://peac.org.ph/shs-voucher-program-applications-for-2026-2027/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "Governed by DO 11, s. 2026 (revised E-GASTPE guidelines), which changed eligibility from SY 2026-2027. Category definitions and dates were read from PEAC's infographic images on the voucher-application page. Voucher values not recorded because they were not found on the pages reviewed. PEAC states the SHS VP is not a scholarship."
+  },
+  {
+    "id": "lgu-qc-scholarship",
+    "name": "Quezon City Scholarship Program",
+    "provider": "Quezon City Government - Quezon City Youth Development Office (QCYDO)",
+    "provider_type": "lgu",
+    "levels": [
+      "senior_high",
+      "college",
+      "graduate",
+      "tech_voc"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "NCR",
+      "Quezon City"
+    ],
+    "summary": "City scholarship for Quezon City residents in senior high, college, postgraduate and continuing education, paid as a tuition grant and/or stipend.",
+    "eligibility": [
+      "Quezon City resident",
+      "Not a scholar of another LGU",
+      "Enrolled/registered/accepted at, or certified as a scholar by, a city-recognized educational institution",
+      "SHS Academic: JHS honors (1-10) or top 10 GWA, GWA at least 89%; Specialized Track: GWA at least 89%; Athletic/Arts and Youth Leaders: GWA at least 85%",
+      "Tertiary QC Excel: freshman, priority course, passes interviews/tests, leadership/civic engagement, GWA at least 1.75",
+      "Tertiary Academic: SHS honors (1-10) or top 10 GWA, GWA at least 1.75; Athletic/Arts and Youth Leaders: GWA at least 2.5",
+      "Tertiary Economic: household income within low-middle-income to poverty threshold, or member of listed groups (e.g. displaced families, PWDs, kasambahay, ALS graduates, solo parents); maintain at least 3.0 (passing)",
+      "Manuel L. Quezon Filipino Language and Literature: incoming freshman in a Filipino language/literature course, GWA at least 1.75",
+      "Postgraduate: employed with QC Government or a partner office for at least 1 year, GWA at least 2.5",
+      "Continuing education/vocational: enrolled in short courses or licensure/board/bar review at a city-recognized institution"
+    ],
+    "benefits": [
+      "SHS (all sub-categories): tuition grant up to PHP 20,000 + stipend PHP 10,000 per school year",
+      "Tertiary QC Excel: up to PHP 110,000 tuition + PHP 50,000 stipend",
+      "Tertiary Academic: up to PHP 80,000 tuition + PHP 25,000 stipend",
+      "Tertiary Athletic/Arts and Youth Leaders: up to PHP 55,000 tuition + PHP 25,000 stipend",
+      "Tertiary Economic: up to PHP 10,000 tuition + PHP 10,000 stipend",
+      "Postgraduate: up to PHP 55,000 tuition + PHP 50,000 stipend (PHP 20,000 automatic; PHP 30,000 only on a thesis/dissertation grant application)",
+      "Continuing education/vocational: PHP 10,000 stipend",
+      "Creative Writing and Literary Grant: PHP 10,000 fixed + PHP 30,000 if pursuing publication assistance"
+    ],
+    "application_period": null,
+    "how_to_apply": "Get a QCitizen ID, log in to QC eServices, complete the online application and upload documents, attend the QCYDO interview, then download the Certificate of Scholarship and sign the scholarship contract. Renewal per school year (SHS) or per term (tertiary/postgraduate).",
+    "official_url": "https://quezoncity.gov.ph/program/qc-scholarship-program/",
+    "source_urls": [
+      "https://quezoncity.gov.ph/program/qc-scholarship-program/",
+      "https://quezoncity.gov.ph/qcitizen-guides/qc-scholars-guide/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "Amounts are per school year maximums from the QC Scholars' Guide (last updated 18 Sep 2026). Based on Ordinance SP-3121 s. 2022 as amended by SP-3283 s. 2024. Application windows are announced by QCYDO and are not on the pages."
+  },
+  {
+    "id": "lgu-davao-ebsu-step",
+    "name": "Davao City Scholarship on Tertiary Education Program (STEP)",
+    "provider": "City Government of Davao - Educational Benefit System Unit (EBSU)",
+    "provider_type": "lgu",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "education",
+      "IT",
+      "health sciences",
+      "social sciences"
+    ],
+    "regions": [
+      "Davao Region",
+      "Davao City"
+    ],
+    "summary": "Davao City's flagship college scholarship for underprivileged but deserving students, run by the Educational Benefit System Unit.",
+    "eligibility": [
+      "Targets underprivileged but deserving students and the poor and vulnerable sectors",
+      "For SY 2025-2026, priority courses were Teacher Education, IT (CS, IT, IS), Health Profession Education (e.g. nursing, midwifery, pharmacy) and Social Sciences (e.g. community development, social work, psychology)"
+    ],
+    "benefits": [
+      "SY 2025-2026: Part A scholars PHP 50,000, Part B PHP 40,000, Part C PHP 15,000 per semester"
+    ],
+    "application_period": "SY 2025-2026 cycle ran in April 2025 (closed). No SY 2026-2027 announcement found on davaocity.gov.ph.",
+    "how_to_apply": "Register and apply on the EBSU eScholar platform (ebsu-escholar.davaocity.gov.ph). Contact: ebsustep@davaocity.gov.ph, (082) 241-1000 local 247.",
+    "official_url": "https://davaocity.gov.ph/departments/economic-development/education-benefit-system-unit/",
+    "source_urls": [
+      "https://davaocity.gov.ph/departments/economic-development/education-benefit-system-unit/",
+      "https://davaocity.gov.ph/education/applications-for-ebsu-scholarships-start/",
+      "https://davaocity.gov.ph/education/davao-city-accepts-424-scholars-for-school-year-2025-2026/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "Two official city articles give different SY 2025-2026 windows (21-30 Apr 2025 vs 21 Apr - 7 May); the later one may reflect an extension. Formal eligibility criteria (residency, grade cut-off) are not stated on the official pages. EBSU also runs Medical/Law educational assistance and a Lumad financial assistance program."
+  },
+  {
+    "id": "lgu-cdo-city-scholarship",
+    "name": "Cagayan de Oro City Scholarship Program",
+    "provider": "City Government of Cagayan de Oro - City Scholarships Office",
+    "provider_type": "lgu",
+    "levels": [
+      "college",
+      "tech_voc",
+      "graduate"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "Northern Mindanao",
+      "Cagayan de Oro City"
+    ],
+    "summary": "City scholarship under the 2018 Scholarship Code for poor but deserving Cagayan de Oro students, with performance-based, income-based, tech-voc and partial-assistance types.",
+    "eligibility": [
+      "Poor but deserving students of Cagayan de Oro",
+      "Performance-based and income-based types: SHS graduates and incoming college students",
+      "Financial assistance/partial scholarship: upper-class students who perform academically and need financial subsidy",
+      "Technical-vocational type handled by CDO-TVI"
+    ],
+    "benefits": [
+      "Free tuition and matriculation plus a monthly stipend (amount not stated)",
+      "Formation through the Iskolar Leaders Academy (ISLA)"
+    ],
+    "application_period": null,
+    "how_to_apply": "Through the City Scholarships Office web portal (services.cagayandeoro.gov.ph:8087/cityscholar/) or office contact 09298191819.",
+    "official_url": "https://cagayandeoro.gov.ph/index.php/news/the-city-hall/the-departments-and-offices/115-city-scholarships-office.html",
+    "source_urls": [
+      "https://cagayandeoro.gov.ph/index.php/news/the-city-hall/the-departments-and-offices/115-city-scholarships-office.html"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "Office page is undated; it says research grant and graduate (law/medicine) types were 'in the pipeline to be launched in 2023'. No grade or income cut-offs stated."
+  },
+  {
+    "id": "sm-foundation-college",
+    "name": "SM College Scholarship Program",
+    "provider": "SM Foundation",
+    "provider_type": "private",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "business/accountancy",
+      "engineering",
+      "IT",
+      "education",
+      "architecture"
+    ],
+    "regions": [
+      "NCR",
+      "selected provinces in Luzon, Visayas and Mindanao"
+    ],
+    "summary": "Full-tuition college scholarship with monthly allowance for financially challenged, high-achieving Grade 12 graduates from covered areas.",
+    "eligibility": [
+      "Incoming freshman and Grade 12 graduate of a public or private school in a covered area, or ALS completer",
+      "Completed Grade 10 in a public high school, or a DepEd voucher holder if from a private high school",
+      "GWA of at least 92% (or equivalent) for Grade 12, 1st semester",
+      "Total household income of at most PHP 250,000 per year",
+      "Covered areas listed on the page (e.g. NCR, Bataan, Cavite, Pampanga; Bohol, Cebu, Iloilo, Leyte; Davao del Sur, Misamis Oriental, Zamboanga del Sur)"
+    ],
+    "benefits": [
+      "Full tuition",
+      "Monthly allowance (amount not stated)",
+      "Part-time job opportunities during semestral and Christmas breaks",
+      "Job offers with the SM group upon graduation",
+      "Enrichment programs"
+    ],
+    "application_period": "Online application 1-28 Feb 2026 (page does not label the AY; SM Foundation published its list of new scholars for SY 2026-2027)",
+    "how_to_apply": "Apply online at scholarship.sm-foundation.org with ITR/non-filing/indigency certificate, cedula, Grade 12 1st-sem report card, birth certificate, 2x2 photo, and sketch of home to the nearest SM mall.",
+    "official_url": "https://www.sm-foundation.org/what_we_do/college-scholarship-program",
+    "source_urls": [
+      "https://www.sm-foundation.org/what_we_do/college-scholarship-program"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "Eligible courses include accountancy and related business courses, civil/computer/electrical/ECE/mechanical engineering, computer science, IT, BEEd and BSEd (sciences, math, English); BS Architecture only at NU campuses. SM Tech-Voc scholarship is mentioned but without details."
+  },
+  {
+    "id": "megaworld-foundation-scholarship",
+    "name": "Megaworld Foundation Scholarship Program",
+    "provider": "Megaworld Foundation, Inc.",
+    "provider_type": "private",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "NCR",
+      "selected provinces"
+    ],
+    "summary": "Full-tuition college scholarship with allowance for incoming freshmen, sophomores and juniors with strong grades at Megaworld Foundation partner schools.",
+    "eligibility": [
+      "Incoming freshmen: SHS final average of at least 85% (or equivalent) and at least 80% in all subjects; entrance exam pass, admission letter, COE or registration form; upper 10% certificate if available",
+      "Incoming sophomores/juniors: GPA of at least 85% (or equivalent) with at least 80% in all subjects; full-load enrollment"
+    ],
+    "benefits": [
+      "Full tuition fee",
+      "Allowance via a Megaworld Foundation-issued ATM card (amount not stated)",
+      "Volunteerism activities, seminars and workshops",
+      "Career opportunities in Megaworld, its subsidiaries and affiliates"
+    ],
+    "application_period": "S.Y. 2026-2027 application period is closed; next call to be announced on the website and social media",
+    "how_to_apply": "Complete the online application form with scanned documents (parent payslip or barangay indigency certificate, utility bills, grades, COE/registration form, family photo), then interviews.",
+    "official_url": "https://www.megaworldfoundation.com/scholarship_program",
+    "source_urls": [
+      "https://www.megaworldfoundation.com/scholarship_program"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "Supports scholars in 76 partner schools in Metro Manila and several provinces; schools and eligible courses are not listed on the page. Contact: scholarship.megfoundation@megaworldcorp.com."
+  },
+  {
+    "id": "gbf-stem-college",
+    "name": "GBF STEM College Scholarship",
+    "provider": "Gokongwei Brothers Foundation (GBF), with Gokongwei Group companies",
+    "provider_type": "private",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "STEM",
+      "accountancy",
+      "pharmacy",
+      "veterinary medicine"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "summary": "Annual grant for outstanding college students in GBF priority STEM courses, with internship and possible employment in the Gokongwei Group.",
+    "eligibility": [
+      "Enrolled in a GBF priority STEM course (AY 2026-2027 list includes accountancy, animal science, avionics, aircraft maintenance, chemical/civil/electrical/industrial/mechanical engineering, chemistry, CS, data science, IT, pharmacy, radiologic technology, DVM; accepted year levels vary)",
+      "GWA of 85% or 2.0, or equivalent",
+      "Good moral standing with active extracurricular involvement",
+      "In need of financial support to complete studies"
+    ],
+    "benefits": [
+      "Fixed annual grant of PHP 80,000 to PHP 120,000 depending on the university, sent to the scholar's bank account, until graduation (subject to retention each semester)",
+      "Scholar development programs",
+      "Internship with a Gokongwei Group business unit",
+      "Possible employment in the Gokongwei Group"
+    ],
+    "application_period": "AY 2026-2027 cycle: deadline 30 May 2026 (closed)",
+    "how_to_apply": "Check eligibility via the GBF form linked on the page; eligible applicants receive the online application by email, then a live online exam and panel interview.",
+    "official_url": "https://www.gokongweibrothersfoundation.org/programs/gbf-stem-scholarship-for-excellence",
+    "source_urls": [
+      "https://www.gokongweibrothersfoundation.org/programs/gbf-stem-scholarship-for-excellence"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "Formerly the GBF-Gokongwei Group STEM Scholarship for Excellence. Partner universities are not listed on the page."
+  },
+  {
+    "id": "gbf-teachstem-college",
+    "name": "GBF TeachSTEM College Scholarship",
+    "provider": "Gokongwei Brothers Foundation (GBF)",
+    "provider_type": "private",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "education",
+      "STEM"
+    ],
+    "regions": [
+      "Eastern Visayas",
+      "Zamboanga Peninsula",
+      "SOCCSKSARGEN",
+      "Caraga",
+      "BARMM"
+    ],
+    "summary": "Grant for first- and second-year education students specializing in STEM or tech-voc who will teach in public schools in their community.",
+    "eligibility": [
+      "1st- or 2nd-year student in a bachelor's in education with STEM-related or tech-voc specialization",
+      "Enrolled in a college/university with LET performance above 65%",
+      "Minimum 85% GWA the previous year; no failed, dropped or incomplete grades",
+      "In need of financial support",
+      "Resident of Region 8, 9, 12, 13 or BARMM and willing to teach in a public school in their community after graduation",
+      "Good conduct and involvement in extracurricular/community activities"
+    ],
+    "benefits": [
+      "Financial grant: PHP 45,000 per year (state university) or PHP 65,000 per year (private university), until graduation subject to retention",
+      "Capacity-building programs and a community of educators"
+    ],
+    "application_period": "2026 cycle: deadline 30 Sep 2026 (closed)",
+    "how_to_apply": "Submit the application and documents via the GBF link on the page; qualified applicants take a live online exam and panel interview.",
+    "official_url": "https://www.gokongweibrothersfoundation.org/programs/teachstem-college-scholarship",
+    "source_urls": [
+      "https://www.gokongweibrothersfoundation.org/programs/teachstem-college-scholarship"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": null
+  },
+  {
+    "id": "sbfi-scholars-for-better-communities",
+    "name": "Security Bank Foundation Scholars for Better Communities (External Scholarship)",
+    "provider": "Security Bank Foundation, Inc. (SBFI)",
+    "provider_type": "private",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "business/accountancy",
+      "IT",
+      "data science",
+      "engineering",
+      "mathematics"
+    ],
+    "regions": [
+      "NCR"
+    ],
+    "summary": "Scholarship for underprivileged but high-achieving students in banking-related courses at eight Manila-area partner universities.",
+    "eligibility": [
+      "Incoming first-year student at one of 8 partner schools: Ateneo de Manila, Chiang Kai Shek College, DLSU-Manila, FEU-Manila, PLM, PUP-Manila, UP Diliman, UST (continuing students only if a slot opens)",
+      "GWA of at least 93% or equivalent, with no subject grade below 86%",
+      "90% and above in Grade 7-12 subjects aligned to the college course",
+      "Course directly supporting bank operations, e.g. accountancy, accounting information systems, internal auditing, marketing, financial management, industrial/management engineering, applied math, business analytics/statistics, data science, computer science, information systems/technology",
+      "Not a child of a Security Bank employee; no family member within the second degree already a scholar; no other scholarship except school discounts"
+    ],
+    "benefits": [
+      "State universities: stipend PHP 25,000 per half-semester or PHP 100,000 per year; no tuition allotment because of the free tuition law",
+      "Private universities: stipend PHP 12,500 per half-semester or PHP 50,000 per year, plus tuition and miscellaneous fees up to PHP 100,000 per year",
+      "Internship, CSR involvement and learning sessions"
+    ],
+    "application_period": "AY 2026-2027: opened 15 Apr 2026; deadlines by school from 15 Jun 2026 (CKSC) to 31 Aug 2026 (DLSU) (closed)",
+    "how_to_apply": "Apply online via the SBFI page with Grade 7-12 transcript, parent ITR/indigency/OFW contract, proof of application or admission to a partner school, birth certificate and portrait photo.",
+    "official_url": "https://www.securitybank.com/foundation/external-scholarship-program/",
+    "source_urls": [
+      "https://www.securitybank.com/foundation/external-scholarship-program/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 403 to curl (bot protection); page loaded and was read in a browser on 2026-11-04",
+    "notes": "Financial assistance is released based on the actual period classes are ongoing, subject to the yearly maximum."
+  },
+  {
+    "id": "aboitiz-future-leaders",
+    "name": "Aboitiz Future Leaders Scholarship (AFLS)",
+    "provider": "Aboitiz Foundation",
+    "provider_type": "private",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "any (Foundation-identified degrees)"
+    ],
+    "regions": [
+      "nationwide (partner universities)"
+    ],
+    "summary": "Full-tuition scholarship from second year to graduation for high-performing students at Aboitiz partner universities in Foundation-identified degree programs.",
+    "eligibility": [
+      "Incoming sophomore at a partner university: Ateneo de Manila, DLSU-Manila, Mapua Manila, Pampanga State Agricultural University, UP Baguio, UP Cebu, UP Diliman, UP Mindanao, UST",
+      "Enrolled in a degree identified by the Foundation",
+      "First-year GPA/GWA of at least 88% or equivalent",
+      "No dropped, failing or incomplete grades; no disciplinary record"
+    ],
+    "benefits": [
+      "Full tuition fee",
+      "Monthly allowance (amount not stated)",
+      "Academic Excellence, Latin Honor and Board Topnotcher incentives",
+      "Learning development sessions",
+      "Mandatory 400-hour internship with Aboitiz Group business units; no return-service requirement"
+    ],
+    "application_period": "Applications currently closed; next cycle to be announced on Aboitiz Foundation Facebook/Instagram",
+    "how_to_apply": "Apply through your university's scholarship office online portal (most partner schools use the linked forms; UP Diliman uses its SIKAP page). No entrance exam; shortlisted applicants are interviewed in person.",
+    "official_url": "https://aboitiz.com/aboitiz-foundation/aboitiz-future-leaders-scholarship",
+    "source_urls": [
+      "https://aboitiz.com/aboitiz-foundation/aboitiz-future-leaders-scholarship"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "Documents reference certificates of enrollment for S.Y. 2025-2026, so the most recent cycle shown targeted students who were first-years in 2025-2026."
+  },
+  {
+    "id": "dlsu-st-la-salle-grant",
+    "name": "DLSU St. La Salle Financial Assistance Grant (Incoming First Year)",
+    "provider": "De La Salle University",
+    "provider_type": "university",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "NCR"
+    ],
+    "summary": "Need-based DLSU grant for academically competent but financially challenged incoming first-year students, with tuition coverage tiered by family income.",
+    "eligibility": [
+      "Incoming first-year college student accepted in their 1st, 2nd or 3rd choice program (or redirected); Special DCAT applicants may also apply",
+      "Academically competent but financially challenged",
+      "Only one grantee per family",
+      "Families above PHP 1.8M gross income may still apply and are reviewed comprehensively"
+    ],
+    "benefits": [
+      "Tier 1 (annual family income below PHP 450K): 100% tuition and fees + monthly stipend (amount not stated)",
+      "Tier 2 (PHP 450K-1M): 100% tuition and fees",
+      "Tier 3 (PHP 1M-1.2M): 80%; Tier 4 (PHP 1.2M-1.4M): 60%; Tier 5 (PHP 1.4M-1.6M): 40%; Tier 6 (PHP 1.6M-1.8M): 20%"
+    ],
+    "application_period": "AY 2027-2028: Batch 1 applications 10 Aug - 15 Oct 2026 (results 1 Feb 2027); Batch 2 (Special DCAT applicants) 1 Feb - 8 Apr 2027 (results 25 May 2027)",
+    "how_to_apply": "Apply through the Archers Hub portal; upload essay, vicinity map, house photos, good moral certificate, utility bills (Apr-Jun 2026), property/rent proof, and income documents (BIR 2316 / COE / BIR exemption / unemployment certificate).",
+    "official_url": "https://www.dlsu.edu.ph/scholarship/st-la-salle-financial-assistance-grant/",
+    "source_urls": [
+      "https://www.dlsu.edu.ph/scholarship/st-la-salle-financial-assistance-grant/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "Grant renewed per trimester subject to retention rules; awards depend on funding and slots. The page lists a Batch 2 evaluation date of 29 Apr 2026, which looks like a typo for 2027. A separate SLS grant exists for incoming Grade 11 (AY 2027-2028 deadline 5 Dec 2026)."
+  },
+  {
+    "id": "ateneo-college-financial-aid",
+    "name": "Ateneo de Manila College Financial Aid Scholarship (incl. Magis Scholarship)",
+    "provider": "Ateneo de Manila University - Office of Admission and Aid",
+    "provider_type": "university",
+    "levels": [
+      "college"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "NCR"
+    ],
+    "summary": "Need-based financial aid for deserving Ateneo college students in all degree programs, with the all-expenses-paid Magis Scholarship for the most financially constrained.",
+    "eligibility": [
+      "Financial need as evident in the Financial Aid Questionnaire",
+      "Intellectual ability and consistent academic performance",
+      "Service to the community and potential for greater service",
+      "Magis: selected from Financial Aid awardees in the most financially constrained circumstances (one each from NCR, Luzon, Visayas and Mindanao)"
+    ],
+    "benefits": [
+      "Financial aid: a combination of 100% / 75% / 50% / 25% tuition and fees, student learning allowance, transportation allowance, food allowance and dormitory assistance",
+      "Magis: 100% tuition and fees for any 4- or 5-year course, food and living allowance, learning allowance, dorm scholarship or transport allowance, miscellaneous allowance, round-trip airfare each semester as applicable, cellphone and laptop"
+    ],
+    "application_period": null,
+    "how_to_apply": "Submit the Financial Aid Application without waiting for the admission decision (instructions on Ateneo's 'Applying for Financial Aid' page). Contact scholarships@ateneo.edu.",
+    "official_url": "https://www.ateneo.edu/college/scholarships/programs",
+    "source_urls": [
+      "https://www.ateneo.edu/college/scholarships/programs"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04 (the linked 'Applying for Financial Aid' page returned 403 Access Denied in a browser)",
+    "notes": "Magis text refers to the fourth batch selected from first-years of SY 2025-2026, so it may not reflect the latest cycle. Deadline not recorded: the application-instructions page could not be accessed."
+  },
+  {
+    "id": "ust-san-martin-de-porres",
+    "name": "UST San Martin de Porres Scholarship (Equity)",
+    "provider": "University of Santo Tomas - Office for Student Affairs",
+    "provider_type": "university",
+    "levels": [
+      "senior_high",
+      "college"
+    ],
+    "fields": [
+      "any"
+    ],
+    "regions": [
+      "NCR"
+    ],
+    "summary": "UST's need-based equity scholarship for deserving students, funded by internal funds and by external foundations and benefactors.",
+    "eligibility": [
+      "Deserving students in need of financial assistance",
+      "Approval subject to available funds/slots per faculty/college",
+      "Internal funds: Sta. Rosa de Lima Fund (freshmen/Grade 11); San Juan Macias Fund (higher years/Grade 12)"
+    ],
+    "benefits": null,
+    "application_period": null,
+    "how_to_apply": "Through the UST Office for Student Affairs, 2/F Tan Yan Kee Student Center (+63-2-3406-1611 local 8267/8294).",
+    "official_url": "https://www.ust.edu.ph/office-for-student-affairs/",
+    "source_urls": [
+      "https://www.ust.edu.ph/office-for-student-affairs/"
+    ],
+    "last_checked": "2026-11-04",
+    "url_check": "HTTP 200 via curl on 2026-11-04",
+    "notes": "The OSA page gives no benefit amounts or deadlines; its linked Scholarship Manual is for AY 2020-2021. UST also lists the Santo Tomas (academic), Santo Domingo de Guzman (gifted) and San Lorenzo Ruiz (student assistance, 20-30 hours/week) scholarships."
+  }
+]
