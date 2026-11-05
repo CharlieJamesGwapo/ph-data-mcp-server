@@ -62,6 +62,13 @@ claude mcp add ph-data -- npx -y ph-data-mcp-server
 }
 ```
 
+**Docker**
+
+```bash
+docker build -t ph-data-mcp-server .
+docker run -i --rm ph-data-mcp-server
+```
+
 ## Develop
 
 ```bash

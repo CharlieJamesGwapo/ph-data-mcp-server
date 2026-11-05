@@ -23,3 +23,18 @@ jobs:
       - run: npm ci
       - run: npm run build
       - run: npm run smoke
+
+  docker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: docker build -t ph-data-mcp-server .
+      - name: Server answers initialize and tools/list over stdio
+        run: |
+          printf '%s\n' \
+            '{"jsonrpc":"2.0","id":1,"method":"initialize","params":{"protocolVersion":"2025-06-18","capabilities":{},"clientInfo":{"name":"ci","version":"0"}}}' \
+            '{"jsonrpc":"2.0","method":"notifications/initialized"}' \
+            '{"jsonrpc":"2.0","id":2,"method":"tools/list"}' \
+            | timeout 30 docker run -i --rm ph-data-mcp-server > out.txt || true
+          cat out.txt
+          grep -q '"ph_search_scholarships"' out.txt
