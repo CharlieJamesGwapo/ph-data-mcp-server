@@ -75,6 +75,12 @@ npx @modelcontextprotocol/inspector node dist/index.js   # interactive testing
 
 `PH_API_BASE_URL` points the live tools at another deployment of the API.
 
+### Releasing
+
+1. Bump `version` in `package.json`, `server.json` (both places) and `src/index.ts`.
+2. `npm publish` (the `prepublishOnly` script builds first).
+3. `mcp-publisher login github` then `mcp-publisher publish` to update the [MCP Registry](https://registry.modelcontextprotocol.io) entry.
+
 ## Contributing
 
 Scholarship fixes and additions are welcome. Edit `data/scholarships.json`, cite the provider's **own** page (not a blog or aggregator), and set `last_checked` to today.
