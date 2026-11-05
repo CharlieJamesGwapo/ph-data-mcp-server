@@ -2,6 +2,7 @@
   "name": "ph-data-mcp-server",
   "version": "0.1.0",
   "description": "MCP server for Philippine scholarships, holidays, regions, schools, peso rates and weather",
+  "mcpName": "io.github.CharlieJamesGwapo/ph-data-mcp-server",
   "type": "module",
   "bin": {
     "ph-data-mcp-server": "dist/index.js"
@@ -13,7 +14,8 @@
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
-    "smoke": "tsx scripts/smoke.ts"
+    "smoke": "tsx scripts/smoke.ts",
+    "prepublishOnly": "npm run build"
   },
   "engines": {
     "node": ">=20.3"
@@ -23,10 +25,19 @@
     "model-context-protocol",
     "philippines",
     "scholarships",
-    "open-data"
+    "open-data",
+    "mcp-server",
+    "claude",
+    "philippines-data",
+    "holidays",
+    "ph"
   ],
   "author": "Charlie James Abejo",
   "license": "MIT",
+  "homepage": "https://github.com/CharlieJamesGwapo/ph-data-mcp-server#readme",
+  "bugs": {
+    "url": "https://github.com/CharlieJamesGwapo/ph-data-mcp-server/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/CharlieJamesGwapo/ph-data-mcp-server"

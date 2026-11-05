@@ -1,0 +1,28 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.CharlieJamesGwapo/ph-data-mcp-server",
+  "description": "Philippine scholarships, holidays, regions, schools, peso rates and weather. No API key.",
+  "repository": {
+    "url": "https://github.com/CharlieJamesGwapo/ph-data-mcp-server",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "ph-data-mcp-server",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "PH_API_BASE_URL",
+          "description": "Use another deployment of the Philippines Public Data API (optional)",
+          "isRequired": false,
+          "format": "string"
+        }
+      ]
+    }
+  ]
+}
